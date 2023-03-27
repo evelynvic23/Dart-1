@@ -395,10 +395,14 @@ main(){
 // var numero = stdin.readLineSync();
 // var num = int.parse(numero!);
 
-// var vetor = [];
+// var num2 = 0;
 
 // for(int x = 1; x <= num; x++ ){
 
+// num2 = num2 + x;
 // }
+
+
+// print("O Resultado é: $num2");
 
 }
